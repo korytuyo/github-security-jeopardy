@@ -1,6 +1,6 @@
 # GitHub Advanced Security Jeopardy Game
 
-An interactive Jeopardy-style quiz game to help study for the GitHub Advanced Security certification.
+An interactive Jeopardy-style quiz game to help study for the GitHub Advanced Security certification!
 
 ## Features
 
